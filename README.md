@@ -1,6 +1,6 @@
 # Radio Marabu für Android
 
-**Aktuelle Beta: [v1.0.2](https://github.com/PeterFahse/Radio-Marabu-Downloads/releases/tag/v1.0.2-beta.1).** Bitte v1.0.1 nicht mehr installieren: Ein Fehler im Benachrichtigungssymbol kann dort beim Senderwechsel zum Absturz führen. Bestehende Installationen direkt auf v1.0.2 aktualisieren.
+**Aktuelle Beta: [v1.0.2](https://github.com/Radio-Marabu/Radio-Marabu-Downloads/releases/tag/v1.0.2-beta.1).** Bitte v1.0.1 nicht mehr installieren: Ein Fehler im Benachrichtigungssymbol kann dort beim Senderwechsel zum Absturz führen. Bestehende Installationen direkt auf v1.0.2 aktualisieren.
 
 Radio Marabu, DDR Eins und Romantic Lite Rock hören – mit Hintergrundwiedergabe, Lautstärkeregelung und gespeicherter Senderauswahl. Titelinformationen werden angezeigt, soweit der Stream sie liefert.
 
