@@ -6,6 +6,8 @@ Die Release-Optimierung entfernte das zur Laufzeit referenzierte Benachrichtigun
 
 Senderwechsel während laufender Wiedergabe auf Motorola moto g(8) power mit Android 11 erfolgreich nachgetestet. Weitere Gerätetests, insbesondere Samsung Galaxy A10, stehen noch aus.
 
+Es ist nicht erforderlich, eine vorherige Version zu installieren auch wenn es sich hier um ein Update handelt.
+
 **Installation:** APK herunterladen und öffnen. Android kann verlangen, die Installation unbekannter Apps für den verwendeten Browser oder Dateimanager zu erlauben. Android 7.0 oder neuer und eine Internetverbindung sind erforderlich.
 
 **Beta:** Weitere Tests laufen. Die Datenschutzhinweise werden noch geprüft. Streaming-Anbieter können Werbung einspielen.
